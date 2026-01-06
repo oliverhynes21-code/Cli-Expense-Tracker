@@ -53,7 +53,7 @@ while not userExit:
                 reader = csv.reader(expenseFile)
                 for row in reader:
                     #Removes the unnecessary characters from the row and adds a comma inbetween row elements
-                    print(row)
+                    print(f"{row[0]} | {row[1]} | {row[2]} | £{row[3]}")
 
     elif userAction == 3:
         userExit = True
