@@ -6,7 +6,7 @@ This project is a simple command-line tool which allows the user to track their 
 ## Features
 - Add new expenses
 - Output current recorded expenses
-- View total spending
+- Save to an external CSV file
 
 ## Motivation for the project
 I created this project as a way for myself to practice the fundamentals of python, including file handling by using context managers (with the with statement) and writing to CSV files. It also allowed me to gain a small amount of experience in structuring a small but functional program. I also tried to add more comments in my work where they were necessary, as this is a good habit to get into for future larger projects and potientially working in this field.
