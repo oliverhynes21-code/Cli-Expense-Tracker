@@ -27,9 +27,12 @@ I created this project as a way for myself to practice the fundamentals of pytho
 ## Examples of program usage
 - Adding an expense to the CSV file:
 ![Expense Tracker CLI output of adding an expense to the file](screenshots/addExpense.png)
+
 - Reading the recorded expenses from the CSV file:
 ![Expense Tracker CLI output of reading the expenses from the file](screenshots/readExpenses.png)
+
 - Reading the overall total spending in each category:
 ![Expense Tracker CLI output of reading the overall total spending in each category](screenshots/categoryTotals.png)
+
 -Reading the monthly total spending in each category:
 ![Expense Tracker CLI output of reading the monthly total spending in each category](screenshots/monthlyTotals.png)
