@@ -32,9 +32,9 @@ I created this project as a way for myself to practice the fundamentals of pytho
 ![Expense Tracker CLI output of reading the expenses from the file](screenshots/readExpenses.png)
 
 - Reading the overall total spending in each category:
-- 
+  
 ![Expense Tracker CLI output of reading the overall total spending in each category](screenshots/categoryTotals.png)
 
--Reading the monthly total spending in each category:
+- Reading the monthly total spending in each category:
 
 ![Expense Tracker CLI output of reading the monthly total spending in each category](screenshots/monthlyTotals.png)
