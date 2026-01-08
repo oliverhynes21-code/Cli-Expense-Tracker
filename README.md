@@ -23,3 +23,13 @@ I created this project as a way for myself to practice the fundamentals of pytho
 - Comparing total monthly cost with monthly income
 - Ability to delete or modify previous records (though this may be out of my ability due to the limitations of CSV files and the difficulty of the workaround)
 - Potentially in the far future, a GUI version with simple graphs (perhaps graphs totalling the user's spending on certain categories per month?)
+
+## Examples of program usage
+- Adding an expense to the CSV file:
+![Expense Tracker CLI output of adding an expense to the file](screenshots/addExpense.png)
+- Reading the recorded expenses from the CSV file:
+![Expense Tracker CLI output of reading the expenses from the file](screenshots/readExpenses.png)
+- Reading the overall total spending in each category:
+![Expense Tracker CLI output of reading the overall total spending in each category](screenshots/categoryTotals.png)
+-Reading the monthly total spending in each category:
+![Expense Tracker CLI output of reading the monthly total spending in each category](screenshots/monthlyTotals.png)
