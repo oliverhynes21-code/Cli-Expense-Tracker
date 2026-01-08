@@ -135,7 +135,7 @@ def calculate_monthly_totals():
             if month not in monthlyTotals:
                 monthlyTotals[month] = {}
 
-            monthlyTotals[month][category] = monthlyTotals[month].get(month, 0) + price
+            monthlyTotals[month][category] = monthlyTotals[month].get(category, 0) + price
 
     return monthlyTotals
 

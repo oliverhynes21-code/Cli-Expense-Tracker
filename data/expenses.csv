@@ -1,3 +1,7 @@
-Date,Category,Item,Price
-2026-01-06,housing,Rent,1100.0
-2026-01-06,food,McDonald's,8.49
+Date,Category,Item,Price,Cumulative Price
+2026-01-07,housing,Rent,1100.0,1100.0
+2026-01-07,food,McDonald,8.49,1108.49
+2026-01-07,housing,Window Clean,6.5,1114.99
+2026-01-07,transport,Bus,2.0,1116.99
+2026-01-07,food,Groceries,66.99,1183.98
+2026-01-07,transport,Bus,2.0,1185.98
